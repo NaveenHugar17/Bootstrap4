@@ -1,0 +1,6 @@
+#grad {
+  background-image: linear-gradient(to right, red , yellow);
+}
+#grad {
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
